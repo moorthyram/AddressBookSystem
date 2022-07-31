@@ -1,0 +1,15 @@
+C:\Moorthy\ASP.NET\AddressBookProblem\bin\Debug\net6.0\AddressBookProblem.exe
+C:\Moorthy\ASP.NET\AddressBookProblem\bin\Debug\net6.0\AddressBookProblem.deps.json
+C:\Moorthy\ASP.NET\AddressBookProblem\bin\Debug\net6.0\AddressBookProblem.runtimeconfig.json
+C:\Moorthy\ASP.NET\AddressBookProblem\bin\Debug\net6.0\AddressBookProblem.dll
+C:\Moorthy\ASP.NET\AddressBookProblem\bin\Debug\net6.0\AddressBookProblem.pdb
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\AddressBookProblem.csproj.AssemblyReference.cache
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\AddressBookProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\AddressBookProblem.AssemblyInfoInputs.cache
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\AddressBookProblem.AssemblyInfo.cs
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\AddressBookProblem.csproj.CoreCompileInputs.cache
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\AddressBookProblem.dll
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\refint\AddressBookProblem.dll
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\AddressBookProblem.pdb
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\AddressBookProblem.genruntimeconfig.cache
+C:\Moorthy\ASP.NET\AddressBookProblem\obj\Debug\net6.0\ref\AddressBookProblem.dll
