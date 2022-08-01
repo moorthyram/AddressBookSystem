@@ -44,7 +44,7 @@ namespace AddressBookProblem
         {
             foreach (var vall in listOfContacts)
             {
-                Console.WriteLine("\nBelow is the details of person in Address Book.");
+                Console.WriteLine("\nthis is the details of person in Address Book.");
                 Console.WriteLine("\nFirst name : " + vall.FirstName + "\nLast name : " + vall.LastName + "\nCity : " + vall.City + "\nState : " + vall.State + "\nZip code : " + vall.Zipcode + "\nPhoneNumber : " + vall.PhoneNumber + "\nEmail ID : " + vall.Email + "\n");
             }
         }
